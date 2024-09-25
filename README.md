@@ -10,9 +10,9 @@
 > Após a conclusão dos passos acima:
 * insira a API_KEY, CHAT_ID, e o link da sua plataforma no LINK_SITE.
 
-<code>Estes campos estarão dentro do arquivo "bot_fortune.py"</code>
+<code>Estes campos estarão dentro do arquivo <b>"bot_fortune.py"</b></code>
 ### RODANDO LOCAL:
-> Após a conclusão do passo acima, apenas execute o arquivo <b>bot_fortune.py</b> que já irá funcionar perfeitamente.
+> Após a conclusão do passo acima, apenas execute o arquivo <b>"bot_fortune.py"</b> que já irá funcionar perfeitamente.
 
 ### SUBIR NA VPS (Server Cloud)
 
