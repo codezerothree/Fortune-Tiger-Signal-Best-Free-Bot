@@ -1,30 +1,27 @@
-* TUTORIAL DE INSTALAÇÃO:
+## Bot Funcional e Gratuito para envio de Sinais em Grupos ou Canais do Telegram
 
-1 - Criar um bot no @BotFather diretamente no telegram
-2 - Obter a API key (na conversa com o @BotFather) 
-2 - Encontrar o ID do seu grupo ou canal (Chat ID)
-4 - Adicionar o Bot no grupo / canal e dar as permissões de admin
+### TUTORIAL DE INSTALAÇÃO:
 
-* Após a conclusão dos passos acima:
+* Criar um bot no @BotFather diretamente no telegram;
+* Obter a API key (na conversa com o @BotFather);
+* Encontrar o ID do seu grupo ou canal (Chat ID);
+* Adicionar o Bot no grupo / canal e dar as permissões de admin.
 
-1 - insira a API_KEY, CHAT_ID, e o link da sua plataforma no LINK_SITE.
+> Após a conclusão dos passos acima:
+* insira a API_KEY, CHAT_ID, e o link da sua plataforma no LINK_SITE.
 
-* Estes campos estarão dentro do arquivo "bot_fortune.py"
+<code>Estes campos estarão dentro do arquivo "bot_fortune.py"</code>
+### RODANDO LOCAL:
+> Após a conclusão do passo acima, apenas execute o arquivo <b>bot_fortune.py</b> que já irá funcionar perfeitamente.
 
-* RODANDO LOCAL:
+### SUBIR NA VPS (Server Cloud)
 
-1 - Após a conclusão do passo acima, apenas execute o arquivo bot_fortune.py que já irá funcionar perfeitamente.
+* Compacte todos os arquivos num único arquivo.zip 
+* Suba o arquivo zipado para o seu servidor e extraia o arquivo.
+* Instale o programa python em seu servidor e as dependências impostas que tem no início do arquivo "bot_fortune.py".
 
-* SUBIR NA VPS (Server Cloud)
+> Após concluído o passo acima, execute o bot com o comando: <b><code>python bot_fortune.py</code></b>
 
-1 - Compacte todos os arquivos num único arquivo.zip 
+<b>OBS</b>: <code>Caso necessite de ajuda para que o bot funcione 24hs em um servidor dedicado (nuvem), me contate que faremos um pacote para a configuração de seu bot no grupo ou canal funcionando direto de um Servidor em Nuvem 24hs por dia. (Bot, Grupo / Canal e Servidor).</code>
 
-2 - Suba o arquivo zipado para o seu servidor e extraia o arquivo.
-
-3 - Instale o programa python em seu servidor e as dependências impostas que tem no início do arquivo "bot_fortune.py".
-
-4 - Após concluído o passo acima, execute o bot com o comando: python bot_fortune.py
-
-OBS: Caso necessite de ajuda para que o bot funcione 24hs em um servidor dedicado (nuvem), me contate que faço o pacote para cada bot no grupo ou canal por R$ 80,00 mensais: Bot, Grupo / Canal e já rodando no Servidor 24hs por dia.
-
-https://t.me/luigiferraribot
+𒆜 https://t.me/luigiferraribot
