@@ -16,7 +16,7 @@
 
 <code>Se atente a instalar no PC o Python e as dependências necessárias do código antes de executá-lo!</code>
 
-### SUBIR NA VPS (Server Cloud)
+### SUBIR NA VPS (Servidor Privado)
 
 * Compacte todos os arquivos num único arquivo.zip 
 * Suba o arquivo zipado para o seu servidor e extraia o arquivo.
