@@ -8,11 +8,13 @@
 * Adicionar o Bot no grupo / canal e dar as permissões de admin.
 
 > Após a conclusão dos passos acima:
-* insira a API_KEY, CHAT_ID, e o link da sua plataforma no LINK_SITE.
+* insira a <code>API_KEY</code>, <code>CHAT_ID</code>, e o link da sua plataforma de afiliado no <code>LINK_SITE</code>.
 
 <code>Estes campos estarão dentro do arquivo <b>"bot_fortune.py"</b></code>
 ### RODANDO LOCAL:
-> Após a conclusão do passo acima, apenas execute o arquivo <b>"bot_fortune.py"</b> que já irá funcionar perfeitamente.
+> Após a conclusão do passo acima, apenas execute o arquivo <b>"bot_fortune.py"</b> <b><code>(python bot_fortune.py)</code></b> que já irá funcionar perfeitamente.
+
+<code>Se atente a instalar no PC o Python e as dependências necessárias do código antes de executá-lo!</code>
 
 ### SUBIR NA VPS (Server Cloud)
 
