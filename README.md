@@ -1,4 +1,4 @@
-## Bot Funcional e Gratuito para envio de Sinais em Grupos ou Canais do Telegram
+## Robô simples e funcional para envio de Sinais em Grupos ou Canais do Telegram
 
 ### TUTORIAL DE INSTALAÇÃO:
 
