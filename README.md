@@ -22,6 +22,6 @@
 
 > Após concluído o passo acima, execute o bot com o comando: <b><code>python bot_fortune.py</code></b>
 
-<b>OBS</b>: <code>Caso necessite de ajuda para que o bot funcione 24hs em um servidor dedicado (nuvem), me contate que faremos um pacote para a configuração de seu bot no grupo ou canal funcionando direto de um Servidor em Nuvem 24hs por dia. (Bot, Grupo / Canal e Servidor).</code>
+<b>OBS</b>: <code>Caso necessite de ajuda para que o bot funcione 24hs em um servidor (nuvem), me contate que faremos um pacote para a configuração de seu bot no grupo ou canal, funcionando direto de um Servidor em Nuvem 24hs por dia. (Bot, Grupo / Canal e Servidor).</code>
 
 𒆜 https://t.me/luigiferraribot
