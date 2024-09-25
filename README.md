@@ -2,8 +2,8 @@
 
 ### TUTORIAL DE INSTALAÇÃO:
 
-* Criar um bot no @BotFather diretamente no telegram;
-* Obter a API key (na conversa com o @BotFather);
+* Criar um bot no <code>@BotFather</code> diretamente no telegram;
+* Obter a API Key (na conversa com o @BotFather);
 * Encontrar o ID do seu grupo ou canal (Chat ID);
 * Adicionar o Bot no grupo / canal e dar as permissões de admin.
 
