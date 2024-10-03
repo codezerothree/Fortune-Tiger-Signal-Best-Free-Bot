@@ -9,6 +9,7 @@
 |API Token|Obter o código Token do bot criado (na conversa com o @BotFather)|
 |ChatID|Encontrar o ID do seu grupo ou canal (Chat ID)|
 |Add Bot|Adicionar o Bot no grupo / canal e dar as permissões de admin|
+|Python|Instalar o Python no seu PC ou VPS|
 
 > Após concluir os requisitos acima:
 * insira em <code>API_KEY</code>(o código Token), em <code>CHAT_ID</code>(o número ID do grupo / canal), e o link da sua plataforma de afiliado em <code>LINK_SITE</code>.
@@ -17,7 +18,7 @@
 ### RODANDO LOCAL:
 > Após a conclusão do passo acima, apenas execute o arquivo <b>"bot_fortune.py"</b> <b><code>(python bot_fortune.py)</code></b> que já irá funcionar perfeitamente.
 
-<code>Se atente a instalar no PC o Python e as dependências necessárias do código antes de executá-lo!</code>
+<b>OBS:</b> <code>Se atente a instalar no PC o Python e as dependências necessárias do código antes de executá-lo!</code>
 
 ### SUBIR NA VPS (Servidor Privado)
 
