@@ -5,13 +5,13 @@
 ### Requisitos:
 |Pacote|Descrição|
 -|-
-|Criação de bot|Criar um bot no <code>@BotFather</code> diretamente no Telegram|
+|Criação do Bot|Criar um bot no <code>@BotFather</code> diretamente no Telegram|
 |API Token|Obter o código Token do bot criado (na conversa com o @BotFather)|
 |ChatID|Encontrar o ID do seu grupo ou canal (Chat ID)|
-|Add bot em Grupo / Canal|Adicionar o Bot no grupo / canal e dar as permissões de admin|
+|Add Bot|Adicionar o Bot no grupo / canal e dar as permissões de admin|
 
 > Após concluir os requisitos acima:
-* insira a <code>API_KEY</code>, <code>CHAT_ID</code>, e o link da sua plataforma de afiliado no <code>LINK_SITE</code>.
+* insira em <code>API_KEY</code>(o código Token), em <code>CHAT_ID</code>(o número ID do grupo / canal), e o link da sua plataforma de afiliado em <code>LINK_SITE</code>.
 
 <code>Estes campos estarão dentro do arquivo <b>"bot_fortune.py"</b></code>
 ### RODANDO LOCAL:
