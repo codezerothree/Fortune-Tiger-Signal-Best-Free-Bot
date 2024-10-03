@@ -30,7 +30,7 @@
 
 ### ♥ Donativo ♥
 
-> <i>Se este bot te ajuda e você gostaria de contribuir com o trabalho, considere um donativo de qualquer valor:</i>
+> <i>Se este projeto te ajuda e você gostaria de contribuir com o trabalho, considere um donativo de qualquer valor:</i>
 
 𒆜 https://biolivre.com.br/wssolinfor
 
