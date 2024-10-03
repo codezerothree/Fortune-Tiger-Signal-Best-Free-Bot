@@ -34,6 +34,6 @@
 
 𒆜 https://biolivre.com.br/wssolinfor
 
-<br><b>OBS</b>: <code>Caso necessite de ajuda para que o bot funcione 24hs em um servidor privado (nuvem), me contate que faremos um pacote para a configuração de seu bot no grupo ou canal, funcionando direto de um Servidor em Nuvem 24hs por dia. Pacote: (Bot, Grupo / Canal e Servidor).</code></br>
+<br><b>OBS</b>: <code>Caso necessite de ajuda para que o bot funcione 24hs em um servidor privado (nuvem), me contate que faremos um pacote para a configuração de seu bot no grupo ou canal, funcionando direto de um Servidor em Nuvem 24hs por dia.</code> <b>Pacote:</b> (Bot, Grupo / Canal e Servidor)</br>
 
 𒆜 https://t.me/luigiferraribot
