@@ -5,8 +5,8 @@
 ### Requisitos:
 |Pacote|Descrição|
 -|-
-|Criação de bot|Criar um bot no <code>@BotFather</code> diretamente no telegram|
-|API Key|Obter a API Key (na conversa com o @BotFather)|
+|Criação de bot|Criar um bot no <code>@BotFather</code> diretamente no Telegram|
+|API Token|Obter o código Token do bot criado (na conversa com o @BotFather)|
 |ChatID|Encontrar o ID do seu grupo ou canal (Chat ID)|
 |Add bot em Grupo / Canal|Adicionar o Bot no grupo / canal e dar as permissões de admin|
 
