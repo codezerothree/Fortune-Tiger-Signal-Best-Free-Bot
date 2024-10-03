@@ -1,13 +1,16 @@
-## Robô simples e funcional para envio de Sinais em Grupos ou Canais do Telegram
+## Robô simples e funcional (em python) para envio de sinais  de jogos de slots para grupos ou canais do Telegram
 
 ### TUTORIAL DE INSTALAÇÃO:
 
-* Criar um bot no <code>@BotFather</code> diretamente no telegram;
-* Obter a API Key (na conversa com o @BotFather);
-* Encontrar o ID do seu grupo ou canal (Chat ID);
-* Adicionar o Bot no grupo / canal e dar as permissões de admin.
+### Requisitos:
+|Pacote|Descrição|
+-|-
+|Criação de bot|Criar um bot no <code>@BotFather</code> diretamente no telegram|
+|API Key|Obter a API Key (na conversa com o @BotFather)|
+|ChatID|Encontrar o ID do seu grupo ou canal (Chat ID)|
+|Add bot em Grupo / Canal|Adicionar o Bot no grupo / canal e dar as permissões de admin|
 
-> Após a conclusão dos passos acima:
+> Após concluir os requisitos acima:
 * insira a <code>API_KEY</code>, <code>CHAT_ID</code>, e o link da sua plataforma de afiliado no <code>LINK_SITE</code>.
 
 <code>Estes campos estarão dentro do arquivo <b>"bot_fortune.py"</b></code>
