@@ -26,7 +26,7 @@
 * Suba o arquivo zipado para o seu servidor e extraia o arquivo.
 * Instale o programa <b>python</b> em seu servidor e as dependências impostas no início do arquivo "bot_fortune.py".
 
-> Após concluído o passo acima, execute o bot com o comando: <b><code>python bot_fortune.py</code></b>
+> Após concluído o passo acima, execute o bot com o comando: <b><code>python3 bot_fortune.py</code></b>
 
 ### ♥ Donativo ♥
 
