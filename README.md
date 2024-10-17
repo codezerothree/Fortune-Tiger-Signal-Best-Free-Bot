@@ -1,5 +1,7 @@
 ## Robô simples e funcional (em python) para envio de sinais  de jogos de slots para grupos ou canais do Telegram
 
+> O tutorial abaixo se refere ao jogo Fortune Tiger. Adapte o script para o seu jogo de slot.
+
 ### TUTORIAL DE INSTALAÇÃO:
 
 ### Requisitos:
