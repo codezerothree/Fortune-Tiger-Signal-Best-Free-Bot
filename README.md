@@ -14,7 +14,7 @@
 |Python|Instalar o Python no seu PC ou VPS|
 
 > Após concluir os requisitos acima:
-* insira em <code>API_KEY</code>(o código Token), em <code>CHAT_ID</code>(o número ID do grupo / canal), e o link da sua plataforma de afiliado em <code>LINK_SITE</code>.
+* Insira em <code>API_KEY</code>(o código Token), em <code>CHAT_ID</code>(o número ID do grupo / canal), e o link da sua plataforma de afiliado em <code>LINK_SITE</code>.
 
 <code>Estes campos estarão dentro do arquivo <b>"bot_fortune.py"</b></code>
 ### RODANDO LOCAL:
